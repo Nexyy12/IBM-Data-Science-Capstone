@@ -1,0 +1,51 @@
+Unnamed: 0,Borough,Neighborhood,ID,Name,Likes,Rating,Tips
+0,Brooklyn,Kensington,4d5c12a01e43236a87eb1583,Sake Sushi,31.0,8.1,49.0
+1,Brooklyn,Williamsburg,51f9b7b3498eefe896caeb23,Shalom Japan,302.0,7.6,99.0
+2,Brooklyn,Bedford Stuyvesant,5b3bcb69bfc6d0002ca9bf17,Warude,32.0,7.6,6.0
+3,Brooklyn,Brooklyn Heights,479ccb47f964a5206b4d1fe3,Iron Chef House,142.0,7.7,66.0
+4,Brooklyn,Cobble Hill,48a41073f964a52091511fe3,Hibino,487.0,8.8,157.0
+5,Brooklyn,Carroll Gardens,5e4f270b03b7910008721f2e,Karazishi Botan,24.0,7.4,6.0
+6,Brooklyn,Park Slope,5276d39a498eb1a5d90096e4,Sushi Katsuei,251.0,8.8,82.0
+7,Brooklyn,Park Slope,3fd66200f964a5208af11ee3,Yamato,45.0,7.8,30.0
+8,Brooklyn,Clinton Hill,4e3cadcb1f6e844231dbe017,Waza,41.0,6.6,29.0
+9,Brooklyn,Downtown,5946d138e2da1964625ca9b2,Daigo Hand Roll Bar,61.0,8.8,14.0
+10,Brooklyn,Boerum Hill,58a202a25490d30f87553a08,Rice & Miso,88.0,8.4,19.0
+11,Brooklyn,North Side,4c7f0887fb74236a7727f9b9,Samurai Mama,331.0,8.6,247.0
+12,Brooklyn,South Side,51f9b7b3498eefe896caeb23,Shalom Japan,302.0,7.6,99.0
+13,Brooklyn,Fort Hamilton,4c2678eef1272d7f43a986c5,Fushimi,72.0,7.7,35.0
+14,Manhattan,Hamilton Heights,531a0207498e06b4656eb8c5,Geisha Japanese Cuisine,35.0,7.2,15.0
+15,Manhattan,Upper East Side,542efa85498ea11026c9746c,Kappo Masa,30.0,8.6,15.0
+16,Manhattan,Yorkville,4bc11982b492d13ad88fa560,Inase Sushi,17.0,7.9,11.0
+17,Manhattan,Lenox Hill,5aa1d85d5f68b931b6f5acda,Kome Waza UES,17.0,8.4,3.0
+18,Manhattan,Midtown,51fd77be498e883bf20fcca8,OOTOYA 大戸屋 (OOTOYA),204.0,7.9,129.0
+19,Manhattan,Midtown,48c50c4bf964a520dc511fe3,Café Zaiya,388.0,7.4,162.0
+20,Manhattan,Murray Hill,4a99b4f4f964a520f62f20e3,Kajitsu,184.0,8.2,71.0
+21,Manhattan,Murray Hill,559cbaa6498eaa4e8d884811,Tempura Matsui,49.0,8.4,12.0
+22,Manhattan,Murray Hill,591caee89deb7d0f69be77a2,Omusubi Gonbei,16.0,8.5,2.0
+23,Manhattan,Murray Hill,540dc46d498e86f0e5059dd2,Zuma New York,455.0,7.7,82.0
+24,Manhattan,Chelsea,454f7cc4f964a520dc3c1fe3,Morimoto,791.0,8.5,352.0
+25,Manhattan,Greenwich Village,3fd66200f964a520dfe91ee3,Omen a Zen,81.0,8.1,27.0
+26,Manhattan,East Village,510c85e7e4b0056826b88297,Kura,79.0,9.2,63.0
+27,Manhattan,East Village,5b3805910dd31f002409405a,Suki Curry,57.0,9.3,15.0
+28,Manhattan,Lower East Side,535978ff498ec5450feaef85,Azasu,73.0,7.8,21.0
+29,Manhattan,West Village,59c5657f3b4e0073c245f3c4,Sushi on Jones (West 10th),38.0,7.7,6.0
+30,Queens,Woodside,59cfbbaf491be76b026b6a84,Matsuri,9.0,7.6,4.0
+31,Queens,Howard Beach,4c100cd3b93cc9b6482156e0,Hagane,13.0,6.8,4.0
+32,Queens,Rego Park,4ee7eaf7469064168cac36bf,Bamboo Ya,49.0,8.1,18.0
+33,Queens,Little Neck,0,0,0.0,0.0,0.0
+34,Queens,Jamaica Center,50f5979fe4b0ff6d3603e506,PP Boy Japan Teriyaki & Sushi,8.0,7.4,6.0
+35,Queens,Lindenwood,4b9ae1e3f964a52030df35e3,Kawaii,20.0,8.6,8.0
+36,Queens,Rockaway Park,0,0,0.0,0.0,0.0
+37,Staten Island,Great Kills,4b747a21f964a520e6de2de3,Arirang Hibachi Steakhouse,51.0,7.4,11.0
+38,Staten Island,Grasmere,4bad3dcbf964a520173d3be3,Fuji Sushi,9.0,7.9,6.0
+39,Staten Island,Bulls Head,4b79eec8f964a520161b2fe3,Sapporo Sushi,15.0,7.1,13.0
+40,Manhattan,Noho,446b2f7cf964a52058331fe3,Umi No Ie,96.0,8.2,46.0
+41,Manhattan,Midtown South,51e8ce40498ea1fb0180efb2,Izakaya MEW,401.0,8.6,266.0
+42,Manhattan,Midtown South,58b8ed467220e661ddf34104,KazuNori: The Original Hand Roll Bar,528.0,8.9,126.0
+43,Manhattan,Midtown South,5d7a9d59a369d40008dfcc1a,Konbini,20.0,7.9,2.0
+44,Brooklyn,Mill Basin,4d7fc91f95c1a143260eecf2,Yoshi,7.0,7.8,7.0
+45,Brooklyn,Mill Basin,0,0,0.0,0.0,0.0
+46,Queens,Pomonok,4b817770f964a520ffa730e3,Futigi Japanese Cuisine,3.0,7.2,7.0
+47,Queens,Hunters Point,52b470f511d2522f86497c9b,Hibino LIC,66.0,8.9,52.0
+48,Queens,Hunters Point,5718e217498e458de03e94c8,Takumen,182.0,8.6,53.0
+49,Queens,Hunters Point,5bb7e3ced48ec100398ab4fb,Dai Hachi,15.0,9.1,6.0
